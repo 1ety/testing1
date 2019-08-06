@@ -1,6 +1,3 @@
 # testing1
 test
- 
- 
- 
- write new line
+write new line
